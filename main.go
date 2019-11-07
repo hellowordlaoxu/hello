@@ -10,4 +10,6 @@ func main()  {
 	fmt.Println(res)
 	res=calc.Sub(50,20)
 	fmt.Println(res)
+    res=calc.Multi(10,20)
+    fmt.Println(res)
 }
